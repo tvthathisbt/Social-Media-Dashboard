@@ -206,7 +206,7 @@ input:checked + label:after {
   border-top: 5px solid var(--youtube);
 }
 .yb .card-footer p {
-  color: var(--bright-red);
+  color: var(--lime-green);
   text-transform: capitalize;
 }
 /******************************************************/
